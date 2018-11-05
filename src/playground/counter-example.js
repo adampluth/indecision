@@ -33,6 +33,10 @@ class Counter extends React.Component {
 
 ReactDOM.render(<Counter />, document.getElementById('app'));
 
+
+// Below is a JSX Version of this example
+
+
 // let count = 0;
 // const addOne = () => {
 // 	count++;

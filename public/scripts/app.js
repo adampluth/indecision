@@ -75,6 +75,9 @@ var Counter = function (_React$Component) {
 
 ReactDOM.render(React.createElement(Counter, null), document.getElementById('app'));
 
+// Below is a JSX Version of this example
+
+
 // let count = 0;
 // const addOne = () => {
 // 	count++;
